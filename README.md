@@ -12,7 +12,9 @@
 
 ## Preview
 
-[video01.webm](https://user-images.githubusercontent.com/62398638/226924507-6900d651-ca92-4cbc-b6b4-933abb3ded0f.webm)
+![gif01](https://user-images.githubusercontent.com/62398638/226925027-71d90846-8dda-47d4-a117-d1428ceb89aa.gif)
 
 
 ## Autor
+
+<img  width="150" height="150" src"https://user-images.githubusercontent.com/62398638/226925112-fae097d0-e400-4c4a-a8ca-4dc3c8da4eeb.jpeg" />
