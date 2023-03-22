@@ -1,13 +1,18 @@
 # Clonerest
-<h2>Neste projeto foi criada uma interface bastante simples e parecida com a tela inicial do site Pinterest.</h2>
+<h2>An UI Clone of pinterest with a more basic design</h2>
 <br>
 
-<h3>Tecnologias e conceitos utilizados</h2>
-  <ul>
-  <li>Html</li>
-    <li>Css</li>
-    <li>Sass</li>
-    <li>JavaScript</li>
-    <li>Animações CSS</li>
-    <li>Modularização de arquivos css</li>
-  </ul>
+## Techs
+  - HTML
+  - CSS
+  - SASS
+  - JavaScript
+  - CSS Animations
+  - CSS Modules
+
+## Preview
+
+[video01.webm](https://user-images.githubusercontent.com/62398638/226924507-6900d651-ca92-4cbc-b6b4-933abb3ded0f.webm)
+
+
+## Autor
